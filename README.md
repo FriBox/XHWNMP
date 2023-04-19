@@ -25,7 +25,9 @@ XHWNMP.v0.6.0.x64
             .\Output\Temp\
 
 Step 1: Modify the PHP .ini ; Modify the paths in session.save_path and upload_tmp_dir to absolute ;
+
 Step 2: Run All.Run.cmd ;
 
 http://FriBox.cn/
+
 20230419
