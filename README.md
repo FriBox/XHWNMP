@@ -1,5 +1,6 @@
 # XHWNMP
-An easy Nginx, MariaDB and PHP environment for Windows
+An easy Nginx, MariaDB and PHP environment for Windows.<br>
+一个简单的Nginx，MariaDB和PHP环境，适用于Windows。
 
 XHWNMP.v0.6.0.x64
 
